@@ -1,0 +1,686 @@
+[
+    {
+      "id": 9,
+      "title": "Sac beige à bandoulière",
+      "brand": "bimboo",
+      "price": 190.0,
+      "badge": "NOUVEAU",
+      "category": "Sacs",
+      "image": "https://img01.ztat.net/article/spp-media-p1/7ef95f2d986242a393620e23f804c66d/897b2968465e4365b46d57923443d5a4.jpg?imwidth=300&filter=packshot"
+    },
+    {
+      "id": 10,
+      "title": "Chapeau tressé beige",
+      "brand": "bimboo",
+      "price": 95.0,
+      "badge": "NOUVEAU",
+      "category": "Accessoires",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTY80oJFbffcoeZ3wbx_bL6lLfttED_i3e_ovFztPtLg&s=10"
+    },
+    {
+      "id": 11,
+      "title": "Robe longue marron à pois",
+      "brand": "bimboo",
+      "price": 220.0,
+      "badge": "ÉDITION LIMITÉE",
+      "category": "Robe",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTENSmGGuOUsEXhrkt2DzmHOmJy1j8U-5aEF_FrnT2M_w&s"
+    },
+    {
+      "id": 12,
+      "title": "Collier fin doré",
+      "brand": "bimboo",
+      "price": 75.0,
+      "badge": "BEST SELLER",
+      "category": "Bijoux",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnmjo_DLPhE317DezkfQlaOfWw42V-2t-3Fg3fua804Q&s=10"
+    },
+    {
+      "id": 17,
+      "title": "Sac rond beige à bandoulière",
+      "brand": "bimboo",
+      "price": 190.0,
+      "badge": "NOUVEAU",
+      "category": "Sacs",
+      "image": "https://drest.s3.eu-west-3.amazonaws.com/wp-content/uploads/2025/09/06153601/Untitled-design-105-600x600.png"
+    },
+    {
+      "id": 18,
+      "title": "Collier fin argenté",
+      "brand": "bimboo",
+      "price": 95.0,
+      "badge": "NOUVEAU",
+      "category": "Accessoires",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu4nN9m2q6zndp_b_YvqYf9n3c1uxFERYqijl5rXRHVA&s"
+    },
+    {
+      "id": 19,
+      "title": "Robe moulante rouge",
+      "brand": "bimboo",
+      "price": 220.0,
+      "badge": "ÉDITION LIMITÉE",
+      "category": "Robe",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1WJFBPyUOorhGZpTsxEksq8qzb_zg9pZd9oH6HTGwqg&s"
+    },
+    {
+      "id": 20,
+      "title": "Boucles d’oreilles dorées",
+      "brand": "bimboo",
+      "price": 75.0,
+      "badge": "BEST SELLER",
+      "category": "Bijoux",
+      "image": "https://www.reference-mode.com/modules/bonnews/views/img/dbc3820d6d17658d4c21b2aebfdc246c3c53e272_tendances%20mode%202025%20r%C3%A9f%C3%A9rence%20mode.png"
+    },
+    {
+      "id": 5,
+      "title": "Mini sac rose à bandoulière",
+      "brand": "bimboo",
+      "price": 180.0,
+      "badge": "EN STOCK",
+      "category": "Sacs",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6Skr6TNqPIZfufBvT-r17L18nfliScn7W8Shfhm-vNQ&s=10"
+    },
+    {
+      "id": 6,
+      "title": "Bracelet fin doré",
+      "brand": "bimboo",
+      "price": 60.0,
+      "badge": "NOUVEAU",
+      "category": "Bijoux",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCFZYUBvD63fQ4PO8VaWgjYdMrm-fqZ7dNv4WYA0Fr4Q&s"
+    },
+    {
+      "id": 7,
+      "title": "Top fleuri blanc",
+      "brand": "bimboo",
+      "price": 120.0,
+      "badge": "POPULAIRE",
+      "category": "Haut",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdwU6vZCNEsB-o4p4Fs9X5psd_xDEkwRTscLjTPdiizQ&s=10"
+    },
+    {
+      "id": 8,
+      "title": "Robe longue blanche",
+      "brand": "bimboo",
+      "price": 260.0,
+      "badge": "ÉDITION LIMITÉE",
+      "category": "Robe",
+      "image": "https://ellaandno.com/cdn/shop/files/Serena-2.png?v=1785507505&width=3840"
+    },
+    {
+      "id": 1,
+      "title": "Sac à main jaune",
+      "brand": "bimboo",
+      "price": 190.0,
+      "badge": "NOUVEAU",
+      "category": "Sacs",
+      "image": "https://www.jwpei.fr/cdn/shop/files/1780470842573-ypczci0gbko.jpg?v=1780480035&width=1426"
+    },
+    {
+      "id": 2,
+      "title": "Montre dorée",
+      "brand": "bimboo",
+      "price": 95.0,
+      "badge": "NOUVEAU",
+      "category": "Accessoires",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo4Uec2AG8q_b4OKcdogbrUVXwfWzEDDuArMTJCRnvkA&s=10"
+    },
+    {
+      "id": 3,
+      "title": "Robe satinée jaune",
+      "brand": "bimboo",
+      "price": 220.0,
+      "badge": "ÉDITION LIMITÉE",
+      "category": "Robe",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCjr8PMasCez5K4NuoLC-fZxnBamGaLhuaD59_kQ_1dQ&s=10"
+    },
+    {
+      "id": 4,
+      "title": "Collier doré multi-rangs",
+      "brand": "bimboo",
+      "price": 75.0,
+      "badge": "BEST SELLER",
+      "category": "Bijoux",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcpmy_l7ZRpCIQSWFdSknZ06mlwwl-nBld7tspWv667g&s=10"
+    },
+    {
+      "id": 37,
+      "title": "Sac cabas vert en cuir",
+      "brand": "bimboo",
+      "price": 180.0,
+      "badge": "EN STOCK",
+      "category": "Sacs",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ3z6Ywy97kNI0AAx1XY_8ZxHz3TiKxFsnTDoIoPDJQ6UglqAIRQ4qW2g&s=10"
+    },
+    {
+      "id": 38,
+      "title": "Collier doré à fleurs",
+      "brand": "bimboo",
+      "price": 60.0,
+      "badge": "NOUVEAU",
+      "category": "Bijoux",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV5hmT9ZP4SQcHSBK4npx2cUoUCGmb85g_LKQaV0nlAg&s=10"
+    },
+    {
+      "id": 39,
+      "title": "Top noir froncé à manches bouffantes",
+      "brand": "bimboo",
+      "price": 120.0,
+      "badge": "POPULAIRE",
+      "category": "Haut",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShzoq7yOy3TPjPTcsE_wxjfWjSg-1nzb6u41fB92f4cQ&s=10"
+    },
+    {
+      "id": 40,
+      "title": "Robe longue verte",
+      "brand": "bimboo",
+      "price": 260.0,
+      "badge": "ÉDITION LIMITÉE",
+      "category": "Robe",
+      "image": "https://media.mango.com/is/image/punto/37071494-43-900?wid=2048"
+    },
+    {
+      "id": 13,
+      "title": "Grand sac nude en cuir",
+      "brand": "bimboo",
+      "price": 180.0,
+      "badge": "EN STOCK",
+      "category": "Sacs",
+      "image": "https://img01.ztat.net/article/spp-media-p1/34ad2ba2da0b46caaa2d529f801540b0/e3eb44a4e0834ae7aba6d9eaf22a5641.jpg?imwidth=762&filter=packshot"
+    },
+    {
+      "id": 14,
+      "title": "Lunettes de soleil marron",
+      "brand": "bimboo",
+      "price": 60.0,
+      "badge": "NOUVEAU",
+      "category": "Accessoires",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp5Ic4V1sazFNU9OD-YOjhWp_5h08rmLj8D-DXkzZLrg&s=10"
+    },
+    {
+      "id": 15,
+      "title": "Blouse blanche à volants",
+      "brand": "bimboo",
+      "price": 120.0,
+      "badge": "POPULAIRE",
+      "category": "Haut",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWKfcqpNWr3-ECCgD_XU5JYtdMXO0K0Xer-M9gSinVmw&s"
+    },
+    {
+      "id": 16,
+      "title": "robe longue nude",
+      "brand": "bimboo",
+      "price": 260.0,
+      "badge": "ÉDITION LIMITÉE",
+      "category": "Robe",
+      "image": "https://cultmia.com/cdn/shop/files/52_567da5d8-5c3c-44ae-aae9-ad0ac16ce685.jpg?format=webp&v=1782140855&width=800"
+    },
+    {
+      "id": 21,
+      "title": "Mini sac cuir beige/",
+      "brand": "bimboo",
+      "price": 180.0,
+      "badge": "EN STOCK",
+      "category": "Sacs",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx_LYGmzWBPpUuPjrbPnlEdzOfKnzxpXCLBiMwygY-eXLi1boT8XejV50&s=10"
+    },
+    {
+      "id": 22,
+      "title": "Montre dorée",
+      "brand": "bimboo",
+      "price": 60.0,
+      "badge": "NOUVEAU",
+      "category": "Bijoux",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0lz_EJaS7NBqXga1ZXOnlyOCf3_bdkv5PBH-dbFJ3iw&s=10"
+    },
+    {
+      "id": 23,
+      "title": "Top bohème jaune",
+      "brand": "bimboo",
+      "price": 120.0,
+      "badge": "POPULAIRE",
+      "category": "Haut",
+      "image": "https://www.cache-cache.fr/on/demandware.static/-/Sites-Cache_cache_master/default/dwab5746ca/bustier-peplum-ajuste-cropped-plisse-jaune-pastel-femme-vue3-36125366542414078.jpg"
+    },
+    {
+      "id": 24,
+      "title": "Robe longue terracotta",
+      "brand": "bimboo",
+      "price": 260.0,
+      "badge": "ÉDITION LIMITÉE",
+      "category": "Robe",
+      "image": "https://www.fashiola.fr/product-list/914712507.webp"
+    },
+    {
+      "id": 25,
+      "title": "Sac rouge & bandoulière",
+      "brand": "bimboo",
+      "price": 190.0,
+      "badge": "NOUVEAU",
+      "category": "Sacs",
+      "image": "https://www.3suisses.fr/media/produits/by-chabrand/img/sac-a-main-pour-femme-rouge_11282320_1140x1140.jpg"
+    },
+    {
+      "id": 26,
+      "title": "chapeaux marron",
+      "brand": "bimboo",
+      "price": 95.0,
+      "badge": "NOUVEAU",
+      "category": "Accessoires",
+      "image": "https://www.parfois.com/dw/image/v2/BBKR_PRD/on/demandware.static/-/Sites-parfois-master-catalog/default/dw1448c3b2/images/hi-res/262/57/249710_BN_1yf.jpg?sw=1000"
+    },
+    {
+      "id": 27,
+      "title": "robe rouge",
+      "brand": "bimboo",
+      "price": 220.0,
+      "badge": "ÉDITION LIMITÉE",
+      "category": "Robe",
+      "image": "https://ae-pic-a1.aliexpress-media.com/kf/S9ff0b5bec3a747fa899bb9e1404f3250k.jpg_480x480q75.jpg"
+    },
+    {
+      "id": 28,
+      "title": "bracelet doree",
+      "brand": "bimboo",
+      "price": 75.0,
+      "badge": "BEST SELLER",
+      "category": "Bijoux",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3mczrS3EztWXNYUanCz6mGug6Divv_cDx-Jzlx660rg&s=10"
+    },
+    {
+      "id": 29,
+      "title": "Mini sac cuir beige",
+      "brand": "bimboo",
+      "price": 180.0,
+      "badge": "EN STOCK",
+      "category": "Sacs",
+      "image": "https://seasidecollection.store/cdn/shop/files/sac_a_main_chic_femme.jpg?v=1775821243&width=1080"
+    },
+    {
+      "id": 30,
+      "title": "Bague fine dorée",
+      "brand": "bimboo",
+      "price": 60.0,
+      "badge": "NOUVEAU",
+      "category": "Bijoux",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp57MAgW4zJE1cuUJKGWq-yhpXTSzbaWHSZezJynSQog&s"
+    },
+    {
+      "id": 31,
+      "title": "haut rose",
+      "brand": "bimboo",
+      "price": 120.0,
+      "badge": "POPULAIRE",
+      "category": "Haut",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4LL2jfnCmGffi9kyKgUbXmnflvkJLoqxIm7SwbUgO3A&s=10"
+    },
+    {
+      "id": 32,
+      "title": "Robe longue blanc",
+      "brand": "bimboo",
+      "price": 260.0,
+      "badge": "ÉDITION LIMITÉE",
+      "category": "Robe",
+      "image": "https://www.mytheresa.com/image/1094/1238/100/1d/P01074283.jpg"
+    },
+    {
+      "id": 33,
+      "title": "Sac bleu",
+      "brand": "bimboo",
+      "price": 190.0,
+      "badge": "NOUVEAU",
+      "category": "Sacs",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0PP0JUx0rdavmApFOvRl_PEvI630kquLPBnUM_1ODZNkL1KbZmmSF_GJb&s=10"
+    },
+    {
+      "id": 34,
+      "title": "montre blue",
+      "brand": "bimboo",
+      "price": 95.0,
+      "badge": "NOUVEAU",
+      "category": "Accessoires",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg-PGK5QwUwmZWHxb3TehXwvZJJJR6pofYtn2Ww74fRA&s=10"
+    },
+    {
+      "id": 35,
+      "title": "Robe noire",
+      "brand": "bimboo",
+      "price": 220.0,
+      "badge": "ÉDITION LIMITÉE",
+      "category": "Robe",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjOqurVySjShlCFFUwsxaJDHikuXFnUgNn73xGmAEzVQ&s=10"
+    },
+    {
+      "id": 36,
+      "title": "collier dore",
+      "brand": "bimboo",
+      "price": 75.0,
+      "badge": "BEST SELLER",
+      "category": "Bijoux",
+      "image": "https://static.e-stradivarius.net/assets/public/44eb/c553/74cf4ca0a67c/211d511fd826/03385904300-c/03385904300-c.jpg?ts=1754478923893&w=1300&f=auto"
+    },
+    {
+      "id": 41,
+      "title": "Sac vert",
+      "brand": "bimboo",
+      "price": 190.0,
+      "badge": "NOUVEAU",
+      "category": "Sacs",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKt2o-sVqhgUPuT_OvtWxUF-MegVcryz2rBMUMP2BxGg&s=10"
+    },
+    {
+      "id": 42,
+      "title": "lunette vert",
+      "brand": "bimboo",
+      "price": 95.0,
+      "badge": "NOUVEAU",
+      "category": "Accessoires",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9KUhvvqlMiU1MPKbw_p7zrTuJ-G2DRYI-tUG1gihupPgcVeuP-E7tyvL4&s=10"
+    },
+    {
+      "id": 43,
+      "title": "Robe satinée vert",
+      "brand": "bimboo",
+      "price": 220.0,
+      "badge": "ÉDITION LIMITÉE",
+      "category": "Robe",
+      "image": "https://xcdn.next.co.uk/common/items/default/default/itemimages/3_4Ratio/product/lge/H52609s6.jpg"
+    },
+    {
+      "id": 44,
+      "title": "Boucles d’oreilles fleurs",
+      "brand": "bimboo",
+      "price": 75.0,
+      "badge": "BEST SELLER",
+      "category": "Bijoux",
+      "image": "https://athenaisjewels.com/cdn/shop/files/freepik__enhance__79526_900x.png?v=1739971957"
+    },
+    {
+      "id": 45,
+      "title": "Mini sac cuir beige",
+      "brand": "bimboo",
+      "price": 180.0,
+      "badge": "EN STOCK",
+      "category": "Sacs",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAKuXaqzom6agfBzCsOKtv6OF8_xKq5Y8F4YOyPY35zQ&s=10"
+    },
+    {
+      "id": 46,
+      "title": "chapeaux beige",
+      "brand": "bimboo",
+      "price": 60.0,
+      "badge": "NOUVEAU",
+      "category": "Accessoires",
+      "image": "https://rosace.com.tn/uploads/articles/1784897252.jpg"
+    },
+    {
+      "id": 47,
+      "title": "Top bohème marron",
+      "brand": "bimboo",
+      "price": 120.0,
+      "badge": "POPULAIRE",
+      "category": "Haut",
+      "image": "https://www.annefontaine.com/media/catalog/product/s/o/solo-marron-1_1.jpg"
+    },
+    {
+      "id": 48,
+      "title": "Robe longue terracotta",
+      "brand": "bimboo",
+      "price": 260.0,
+      "badge": "ÉDITION LIMITÉE",
+      "category": "Robe",
+      "image": "https://cultmia.com/cdn/shop/files/OrangeTaffetaDressWithACroppedCapeAndInvertedLapel6..jpg?v=1781023033"
+    },
+    {
+      "id": 49,
+      "title": "Sacou beige & bandoulière",
+      "brand": "bimboo",
+      "price": 190.0,
+      "badge": "NOUVEAU",
+      "category": "Sacs",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZqkFhKxUqvuOCnF2Ri2mwzsLOoSQpipQNstT5zc2uGg&s=10"
+    },
+    {
+      "id": 50,
+      "title": "montre doree",
+      "brand": "bimboo",
+      "price": 95.0,
+      "badge": "NOUVEAU",
+      "category": "Accessoires",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBE36raEIvR8ejKdO2XDH4uZhWvil_zcyr7CaTTFWxZQ&s=10"
+    },
+    {
+      "id": 51,
+      "title": "Robe blanc",
+      "brand": "bimboo",
+      "price": 220.0,
+      "badge": "ÉDITION LIMITÉE",
+      "category": "Robe",
+      "image": "https://b2c-media.maxmara.com/sys-master/m0/MM/2025/2/1236055606/001/s3details/1236055606001-w-alma_thumbnail.jpg"
+    },
+    {
+      "id": 52,
+      "title": "collier doree",
+      "brand": "bimboo",
+      "price": 75.0,
+      "badge": "BEST SELLER",
+      "category": "Bijoux",
+      "image": "https://mia-bijoux.ca/cdn/shop/files/6a32b545-fa9b-f111-bb1f-02a1aad4d167_T326P003DO_..jpg?v=1787232879&width=2000"
+    },
+    {
+      "id": 53,
+      "title": "Mini sac cuir rouge",
+      "brand": "bimboo",
+      "price": 180.0,
+      "badge": "EN STOCK",
+      "category": "Sacs",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPYLa7YXD3-jAYY8c3AIIL-Wl2K4sxcEPjIPGcH4j4Yw&s=10"
+    },
+    {
+      "id": 54,
+      "title": "collier fine dorée",
+      "brand": "bimboo",
+      "price": 60.0,
+      "badge": "NOUVEAU",
+      "category": "Bijoux",
+      "image": "https://sevenrings.fr/cdn/shop/files/BOPEND-D_P1-2.jpg?v=1705695362&width=2048"
+    },
+    {
+      "id": 55,
+      "title": "Top bohème rouge",
+      "brand": "bimboo",
+      "price": 120.0,
+      "badge": "POPULAIRE",
+      "category": "Haut",
+      "image": "https://ca.chicwish.com/media/catalog/product/cache/aaa138aafda2e32295dbe3b94f267e44/2/4/240409cc.44.jpg"
+    },
+    {
+      "id": 56,
+      "title": "Robe longue blanc",
+      "brand": "bimboo",
+      "price": 260.0,
+      "badge": "ÉDITION LIMITÉE",
+      "category": "Robe",
+      "image": "https://etiqui.com/media/catalog/product/cache/058c0efaab55c849325697b48f66daa1/r/o/robe-blanche-perlee-dos-nu_face_1.jpg"
+    },
+    {
+      "id": 57,
+      "title": "Sacou avec bandoulière",
+      "brand": "bimboo",
+      "price": 190.0,
+      "badge": "NOUVEAU",
+      "category": "Sacs",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy2liuC3veN2BrBQ2qiJbgeWjfMpHUVbM5TcVYZtTixg&s=10"
+    },
+    {
+      "id": 58,
+      "title": "lunette noir et doree",
+      "brand": "bimboo",
+      "price": 95.0,
+      "badge": "NOUVEAU",
+      "category": "Accessoires",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsSQdBpnzNNkXQbSDIobNvW4Uh01CXbkVbTspAF7UL1A&s"
+    },
+    {
+      "id": 59,
+      "title": "Robe satinée jaune",
+      "brand": "bimboo",
+      "price": 220.0,
+      "badge": "ÉDITION LIMITÉE",
+      "category": "Robe",
+      "image": "https://velaniomode.com/cdn/shop/files/femme-robe-longue-sans-manches-a-bretelles-et-dos-corset-en-a-ligne-4.png?v=1779004527&width=416"
+    },
+    {
+      "id": 60,
+      "title": "collier fleurs",
+      "brand": "bimboo",
+      "price": 75.0,
+      "badge": "BEST SELLER",
+      "category": "Bijoux",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIPUFGAOBYAWyt3DYGSkXIN8yfDqre0lJKAtyyL2YQFA&s"
+    },
+    {
+      "id": 61,
+      "title": "sac vert pastel",
+      "brand": "bimboo",
+      "price": 180.0,
+      "badge": "EN STOCK",
+      "category": "Sacs",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyTsVLd9strDoyIYXyufJ6yqQyXUyt8t3f1cXLi5_3Vg&s=10"
+    },
+    {
+      "id": 62,
+      "title": "Boucles d’oreilles dorée",
+      "brand": "bimboo",
+      "price": 60.0,
+      "badge": "NOUVEAU",
+      "category": "Bijoux",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuAwIx8oq6oVohFQkLGiFSE_bXWkyAZYOQcqJ1V3Ngww&s"
+    },
+    {
+      "id": 63,
+      "title": "Top bohème vert pastel",
+      "brand": "bimboo",
+      "price": 120.0,
+      "badge": "POPULAIRE",
+      "category": "Haut",
+      "image": "https://b2c-media.sportmax.com/sys-master/m0/SP/2026/2/SP2946026106/002/s3details/SP2946026106002-w-spxlacuna_normal.webp"
+    },
+    {
+      "id": 64,
+      "title": "Robe longue vert",
+      "brand": "bimboo",
+      "price": 260.0,
+      "badge": "ÉDITION LIMITÉE",
+      "category": "Robe",
+      "image": "https://www.moudda.com/cdn/shop/files/a54589e55f0a04ab90a7217b1075772a13f9cbe818389594.jpg?v=1775173133&width=1080"
+    },
+    {
+      "id": 65,
+      "title": "Sac kaki & bandoulière",
+      "brand": "bimboo",
+      "price": 190.0,
+      "badge": "NOUVEAU",
+      "category": "Sacs",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPYPG7oj8u2y_wdyj-z5S2tOmKZ4LKl9xt3IB923AoJQ&s=10"
+    },
+    {
+      "id": 66,
+      "title": "chapeaux blanc",
+      "brand": "bimboo",
+      "price": 95.0,
+      "badge": "NOUVEAU",
+      "category": "Accessoires",
+      "image": "https://www.ikks.com/dw/image/v2/BFQN_PRD/on/demandware.static/-/Sites-ikks_master_v0/default/dw0790e059/produits/BS90335-11/IKKS-CHAPEAU-FORME-BORSALINO-FEMME-BS90335-11_3.jpg?sw=736&sh=947"
+    },
+    {
+      "id": 67,
+      "title": "Robe vert",
+      "brand": "bimboo",
+      "price": 220.0,
+      "badge": "ÉDITION LIMITÉE",
+      "category": "Robe",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcw4xdtw3DI5sdSL98JR2VNb36DngO3Apwg6os_niIkXns7DlkNnD06nrL&s=10"
+    },
+    {
+      "id": 68,
+      "title": "collier doree",
+      "brand": "bimboo",
+      "price": 75.0,
+      "badge": "BEST SELLER",
+      "category": "Bijoux",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTiV1KQBoE-VhyYe9vnRpvgFs0XC_qiZdqCjdC7GIeWg&s"
+    },
+    {
+      "id": 69,
+      "title": "sac cuir beige",
+      "brand": "bimboo",
+      "price": 180.0,
+      "badge": "EN STOCK",
+      "category": "Sacs",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCYedcFawB17Q7TC6XMs0N3fSGlh4E2hSE8V1sQXGorg&s=10"
+    },
+    {
+      "id": 70,
+      "title": "bracellet dorée",
+      "brand": "bimboo",
+      "price": 60.0,
+      "badge": "NOUVEAU",
+      "category": "Bijoux",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxBudv3DtLbXzfxi1SMNef59hsHcWM9g4aCO7tfENmRQ&s"
+    },
+    {
+      "id": 71,
+      "title": "Top bohème bleu",
+      "brand": "bimboo",
+      "price": 120.0,
+      "badge": "POPULAIRE",
+      "category": "Haut",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcN6PYw9hBUjqeflmoadWw5TpwrcEPwUUiRz5r7p5tGg&s"
+    },
+    {
+      "id": 72,
+      "title": "Robe longue terracotta",
+      "brand": "bimboo",
+      "price": 260.0,
+      "badge": "ÉDITION LIMITÉE",
+      "category": "Robe",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh_shrGQmI7zD5v37DJdDezb2shgYkhL5-ZE5vonvOZw&s=10"
+    },
+    {
+      "id": 73,
+      "title": "Sac rose & bandoulière",
+      "brand": "bimboo",
+      "price": 190.0,
+      "badge": "NOUVEAU",
+      "category": "Sacs",
+      "image": "https://cdn.youcan.shop/stores/79c03571d8c0b52b4843e8869a327f59/products/MRxn7KF6Qg6t7CQuOp0AizPt6PFGiOQwfjM9IOYl_md.png"
+    },
+    {
+      "id": 74,
+      "title": "porte cles rose",
+      "brand": "bimboo",
+      "price": 60.0,
+      "badge": "NOUVEAU",
+      "category": "Accessoires",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_zf2sBNo1YE6iJaKqTCMALmTeGYtidjTmjv5fgAW-Yw&s=10"
+    },
+    {
+      "id": 75,
+      "title": "Top bohème rose",
+      "brand": "bimboo",
+      "price": 120.0,
+      "badge": "POPULAIRE",
+      "category": "Haut",
+      "image": "https://b2c-media.maxmara.com/sys-master/m0/MM/2026/2/2946026106/001/s3details/2946026106001-w-spxlacuna_thumbnail.jpg"
+    },
+    {
+      "id": 76,
+      "title": "Robe longue terracotta",
+      "brand": "bimboo",
+      "price": 260.0,
+      "badge": "ÉDITION LIMITÉE",
+      "category": "Robe",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOY3LAY_9OXjdp7jNczuMfGOc9Ig3kvJzETxwmRjadfA&s=10"
+    }
+  ]
